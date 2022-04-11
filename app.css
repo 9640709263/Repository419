@@ -1,11 +1,17 @@
 body{
 
     background-color: blueviolet;
-    border: 2px solid gold;
+   
 }
 
 h1{
 
     background-color: brown;
     border: 2px solid gray;
+    border-radius: 50px;
+    text-align: center;
+}
+
+p{
+    color: yellow;
 }
