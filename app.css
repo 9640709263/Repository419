@@ -1,6 +1,6 @@
 body{
 
-    background-color: green;
+    background-color: rgb(14, 81, 118);
    
 }
 
@@ -20,4 +20,6 @@ img{
     
     width: 250px;
     height: 250px;
+    border: 2px solid whitesmoke;
+    border-radius: 50px;
 }
